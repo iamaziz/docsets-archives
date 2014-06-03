@@ -1,7 +1,7 @@
 
 ## Docsets list:
 
-- Computer dicitionaries:
+- Computer dictionaries:
 	- [Foldoc-all.tgz](https://github.com/iamaziz/archives/blob/master/docsets/foldoc-all.tgz?raw=true), source: [foldoc computing dictionary](http://foldoc.org/).
 	- [DADS.tgz](https://github.com/iamaziz/archives/blob/master/docsets/DADS.tgz?raw=true), source: [The Dictionary of Algorithms and Data Structures](http://xlinux.nist.gov/dads/).
 
